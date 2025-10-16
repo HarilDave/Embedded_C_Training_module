@@ -1,0 +1,6 @@
+What are the functions of bitwise operators AND, OR, XOR, and shift operations?
+
+AND   -- bit masking
+OR    -- used to set bit
+XOR   -- used to toggle bit
+Shift -- used to divide or multiply by 2

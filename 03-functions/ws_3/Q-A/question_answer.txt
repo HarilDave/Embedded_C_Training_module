@@ -1,0 +1,24 @@
+The header file required to work with variadic functions is      <stdarg.h>.
+
+The macro  va_start  is used to initialize the variable argument list.
+
+va_arg is used to fetch each argument from the variadic list.
+
+The macro used to clean up the variable argument list is va_end.
+
+Function printf is a common example of a variadic function in C.
+
+
+Multiple Choice Questions (MCQs)
+
+
+Which of the following is NOT a valid macro in <stdarg.h>?
+d) va_get
+
+
+What is the main risk in using variadic functions?
+c) Lack of type safety
+
+
+In a variadic function, how does the function know how many arguments are passed?
+b) A counter argument must be passed
